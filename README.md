@@ -22,9 +22,9 @@ client expectations
 [![React Query](https://img.shields.io/badge/react_query-%23223E4A.svg?style=for-the-badge&logo=react-query&logoColor=white)]()
 [![styled-components](https://img.shields.io/badge/styled--components-%23DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white)]()
 [![Sass](https://img.shields.io/badge/sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)]()
-[![RxJS](https://img.shields.io/badge/RxJS-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)]()
-[![GreenSock](https://img.shields.io/badge/gsap-%2386C129.svg?style=for-the-badge&logo=greensock&logoColor=white)]()
-[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)]()
+<!-- [![RxJS](https://img.shields.io/badge/RxJS-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)]() -->
+<!-- [![GreenSock](https://img.shields.io/badge/gsap-%2386C129.svg?style=for-the-badge&logo=greensock&logoColor=white)]() -->
+<!-- [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)]() -->
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=TomaszOlek&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
