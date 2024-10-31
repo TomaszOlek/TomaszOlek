@@ -23,8 +23,7 @@ I'm a very passionate programmer who thrives on the excitement of exploring new 
 ## 📊 GitHub Stats:
 <div align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=TomaszOlek&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TomaszOlek&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](./profile-3d-contrib/profile-south-season-animate.svg)
 
 </div>
 
